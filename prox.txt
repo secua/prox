@@ -169,3 +169,4 @@ root     29556  0.0  0.1 188900  5260 ?        Sl   09:11   0:00 /usr/lib/gvfs/g
 root     29560  0.0  0.1 197096  5748 ?        Sl   09:11   0:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
 root     29564  0.0  0.1 122308  5552 ?        Sl   09:11   0:00 /usr/lib/gvfs/gvfsd-computer --spawner :1.6 /org/gtk/gvfs/exec_spaw/3
 root     29567  0.0  0.1 122308  5356 ?        Sl   09:11   0:00 /usr/lib/gvfs/gvfsd-computer --spawner :1.6 /org/gtk/gvfs/exec_spaw/4
+Delta compression using up to 4 threads.
